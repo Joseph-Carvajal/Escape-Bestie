@@ -156,7 +156,7 @@
   <script>
     let current = 1;
     let totalQuestions = 8;
-    let timeLeft = 180;
+    let timeLeft = 300;
     let timer = setInterval(function(){
       if(timeLeft <= 0){
         clearInterval(timer);
