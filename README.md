@@ -110,15 +110,15 @@
   </div>
 
   <div id="q3" class="question">
-    <p>Q3 – The Calendar Code<br>The wall says: IBM was born more than a century ago. In what year was it founded?</p>
+    <p>Q3 – The Calendar Code<br>The wall says: When do we need to complete the 2025 Safe and Healthy IBMer Learning Plan - Philippines (month)??</p>
     <input type="text" id="a3">
-    <button onclick="checkAnswer(3, '1911')">Submit</button>
+    <button onclick="checkAnswer(3, 'October')">Submit</button>
   </div>
 
   <div id="q4" class="question">
-    <p>Q4 – The Money Code<br>IBM helped banks and businesses process data faster with early machines. What’s the three-letter word for money?</p>
+    <p>Q4 – AskHR<br>What is the new platform replacing Zendesk this November??</p>
     <input type="text" id="a4">
-    <button onclick="checkAnswer(4, 'atm')">Submit</button>
+    <button onclick="checkAnswer(4, 'ServiceNow')">Submit</button>
   </div>
 
   <div id="q5" class="question">
@@ -128,9 +128,9 @@
   </div>
 
   <div id="q6" class="question">
-    <p>Q6 – The Cloud Hint<br>What’s the word for storing files online instead of on your computer?</p>
+    <p>Q6 – Hint, His Surname is Foltz<br>Who is our new VP for HR Services</p>
     <input type="text" id="a6">
-    <button onclick="checkAnswer(6, 'cloud')">Submit</button>
+    <button onclick="checkAnswer(6, 'Chris Foltz')">Submit</button>
   </div>
 
   <div id="q7" class="question">
@@ -140,9 +140,9 @@
   </div>
 
   <div id="q8" class="question">
-    <p>Q8 – The Learning Key<br>What is the name of IBM's Learning Management System?</p>
+    <p>Q8 – Complete<br>What is the manager adoption % of AskHR in 2024</p>
     <input type="text" id="a8">
-    <button onclick="checkAnswer(8, 'yourlearning')">Submit</button>
+    <button onclick="checkAnswer(8, '100')">Submit</button>
   </div>
 
   <div id="end" class="question">
