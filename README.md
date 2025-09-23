@@ -112,13 +112,13 @@
   <div id="q3" class="question">
     <p>Q3 – The Calendar Code<br>The wall says: When do we need to complete the 2025 Safe and Healthy IBMer Learning Plan - Philippines (month)??</p>
     <input type="text" id="a3">
-    <button onclick="checkAnswer(3, 'October')">Submit</button>
+    <button onclick="checkAnswer(3, 'october')">Submit</button>
   </div>
 
   <div id="q4" class="question">
     <p>Q4 – AskHR<br>What is the new platform replacing Zendesk this November??</p>
     <input type="text" id="a4">
-    <button onclick="checkAnswer(4, 'ServiceNow')">Submit</button>
+    <button onclick="checkAnswer(4, 'serviceNow')">Submit</button>
   </div>
 
   <div id="q5" class="question">
@@ -130,7 +130,7 @@
   <div id="q6" class="question">
     <p>Q6 – Hint, His Surname is Foltz<br>Who is our new VP for HR Services</p>
     <input type="text" id="a6">
-    <button onclick="checkAnswer(6, 'Chris Foltz')">Submit</button>
+    <button onclick="checkAnswer(6, 'chris foltz')">Submit</button>
   </div>
 
   <div id="q7" class="question">
